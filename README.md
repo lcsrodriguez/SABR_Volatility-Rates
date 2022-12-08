@@ -7,7 +7,7 @@ implied volatility that accurately captures the market smile volatility dynamics
 
 Finally, we will conduct an in-depth study of the impact of SABR models: $\alpha$, $\beta$, $\rho$, $\nu$.
 
-Our summary and research approach is documented in the `.pdf` report [report](docs/report.pdf).
+Our summary and research approach is documented in the `.pdf` [report](docs/report.pdf).
 
 
 ## License
