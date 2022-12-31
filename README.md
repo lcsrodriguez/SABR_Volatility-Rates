@@ -9,7 +9,7 @@ Finally, we will conduct an in-depth study of the impact of SABR models: $\alpha
 
 Our summary and research approach is documented in the `.pdf` [report](docs/report.pdf).
 
-s
+
 ## Authors
 
 - **Amal BACHA & Lucas RODRIGUEZ**
